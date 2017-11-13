@@ -10,11 +10,17 @@ We need software to deliver the proper data to the scoreboard for a basketball t
 Write a class ScoreKeeper which offers following methods:
 
 void scoreTeamA1()
+
 void scoreTeamA2()
+
 void scoreTeamA3()
+
 void scoreTeamB1()
+
 void scoreTeamB2()
+
 void scoreTeamB3()
+
 String getScore()
 
 # Rules
